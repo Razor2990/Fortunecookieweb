@@ -1,0 +1,5 @@
+# Ignorando modúlos de NodeJS
+
+
+#Ignorando archivos log de Node
+npm-debug.log
